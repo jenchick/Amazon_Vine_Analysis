@@ -36,9 +36,13 @@ I selected the "toys" dataset for review. I took the following steps: Use PySpar
 
 I expected there to be bias towards 5-star reviews in the Amazon Vine Program (paid reviewers).  The results were surprising such that only 1/3 of paid reviewers gave 5-star reviews while almost 1/2 of unpaid reviewers did! So, it seems that there could be a bias of the paid participants towards not giving 5-star reviews in order to be perceived as providing a more fair review for their services.
 
-I would recommend additional analysis in order to determine if there is any type of review bias occuring for Amazon Vine Program members. A direct survey of these participants to determine what factors influenced their review results would be beneficial.
+I would recommend additional analysis in order to determine if there is any type of review bias occuring for Amazon Vine Program members. A direct survey of these participants to determine what factors influenced their review results would be beneficial.  
+
+Another consideration would be the extremely small number of reviews contributed by the Amazon Vine Program members (only 2%) which would be too small to be considered a fair sample size for comparison.  The program could be evaluated as a whole, instead of coming to a conclusion based on one data set/category.
 
 ## Resources
-File: https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Toys_v1_00.tsv.gz
+Data: https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Toys_v1_00.tsv.gz
+
+Applications/Technology: AWS RDS; Google Colab; PostgreSQL; pgAdmin 4; and Jupyter Notebook
 
 
