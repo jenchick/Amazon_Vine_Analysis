@@ -17,6 +17,9 @@ I selected the "toys" dataset for review. I took the following steps: Use PySpar
 
 ## Summary
 
+The summary states whether or not there is bias, and the results support this statement
+
+An additional analysis is recommended to support the statement
 
 ## Resources
 
