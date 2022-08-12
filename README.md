@@ -6,6 +6,10 @@ I selected the "toys" dataset for review. I took the following steps: Use PySpar
 
 ## Results
 
+![image](https://user-images.githubusercontent.com/102322707/184434051-6c520c4b-8893-4308-9ee9-6f691fbdb2a2.png)
+
+
+![image](https://user-images.githubusercontent.com/102322707/184434072-9e6dc5b4-10b3-4b1f-96c2-5a67da471ce8.png)
 
 
 - How many Vine reviews and non-Vine reviews were there?
@@ -22,6 +26,6 @@ The summary states whether or not there is bias, and the results support this st
 An additional analysis is recommended to support the statement
 
 ## Resources
-
+File: https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Toys_v1_00.tsv.gz
 
 
